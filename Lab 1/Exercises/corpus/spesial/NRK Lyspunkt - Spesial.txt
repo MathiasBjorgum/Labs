@@ -1,0 +1,8 @@
+url: 
+https://www.nrk.no/spesial/lyspunkt/headline: 
+NRK Lyspunkt - Spesial
+published_date
+N/A
+ingress:
+Saker som gir deg pause og inspirasjon.
+article:

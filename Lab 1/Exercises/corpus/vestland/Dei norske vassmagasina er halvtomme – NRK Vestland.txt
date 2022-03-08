@@ -1,0 +1,111 @@
+url: 
+https://www.nrk.no/vestland/dei-norske-vassmagasina-er-halvtomme-1.15828265headline: 
+Dei norske vassmagasina er halvtomme – NRK Vestland
+published_date
+2022-01-26T13:34:59+01:00
+ingress:
+Fyllingsgrada i norske vassmagasin går ned trass regnvêret. Ved utgangen av veke 3 var fyllingsgraden berre 50,2 prosent.
+article:
+Fyllingsgrada i norske vassmagasin går ned trass regnvêret. Ved utgangen av veke 3 var fyllingsgraden berre 50,2 prosent.CO₂ i atmosfæren416,7 ppm1,5-gradersmålet+1,0°CLes mer  om klima
+
+Ei «tropisk regnskur» og «ei atmosfærisk elv» har skylja over landet denne månaden, og fleire stader har meldt om nedbørsrekord. 
+Likevel gjekk magasinfyllinga ned med 1,6 prosenteiningar. Medianverdien for fyllinga på tilsvarande tidspunkt for åra 2002–2021 er 62,8 prosent.
+Høgast magasinfylling hadde Nord-Noreg (område 4) med 64,9 prosent, medan Aust-Noreg (område 1) hadde lågast fylling med 42,8 prosent.
+I haust var fyllingsgraden sør for Sognefjorden blant dei lågaste som Noregs vassdrags- og energidirektoratet (NVE) har observert dei siste 20 åra.
+
+
+
+
+I ALT FEM: Noregs fem ulike prisområde for straum.
+Grafikk: Oljedirektoratet
+
+
+
+– Vi ligg godt an med tanke på ein forsyningskrise, men det er nok ei mager trøyst når straumprisane i deler av landet er skyhøge. Det er vanskeleg å spå om framtida, men det er ingen grunn til å tro at det blir betre priser i marknaden med det første, seier kraftanalytikar Anders Lie Brenna. 
+Marius Holm Rennesund er kraftanalytikar i Thema.
+– Vi ser at endringa er ujamt fordelt. I Nord- og Midt-Norge har godt med nedbør gjort at magasinnivåa er nesten uendra, medan dei søkk i Sør-Noreg, seier han (heile svaret i faktaboks). 
+
+
+Dette sier ekspertene:
+
+
+Ekspandér faktaboks
+
+
+
+
+Tor Reier Lilleholt, Volue Insight
+– NVE sin statistikk viser at det tappes mindre enn normalt i nord som følge av at der har vi hatt vær som bidrar til ekstra tilsig. I sør er det fortsatt sterk nedtapping. Spesielt i øst og i Vest er det prognoser som går ganske langt ned når vi kommer til våren. Den siste tiden har det hjulpet betydelig i område sør (NO2) som har fått noe mer tilsig og at forbruket er lavere pga. høyere temperaturer. Med normal vær fremover ser det ut til å være nok vann i magasinene for resten av denne vinteren, men vi kan ikke ha vesentlig væromslag med lave temperaturer og lite tilsig de neste 2 månedene.
+Vi har også fått betydelig oppbygning av mer snø i mange områder som kan hjelpe situasjonen litt senere i sommer. I fjellet i sør Norge er det derimot fortsatt betydelig mindre snø en det vi normalt ser.
+Slik utsiktene er nå vil nord Norge flomme over av billig kraft med gode magasiner og mye snøsmelting. I sør ser det ut som de skal slite med lavere magasiner enn normalt i lang tid om ikke været slår om til å levere mye nedbør i sommer. Derfor vil prisutsiktene i sør fortsatt ligge nære 1kr/kWh i kraftpris gjennom sommeren når vi inkluderer moms.
+
+Marius Holm Rennesund, Thema
+– Magasinfyllingen denne uken viser en nedgang på 1,6% for Norge som helhet. Dette er noe mindre enn det som er normalt for årstiden. Hovedgrunnen til dette er at vi for tiden har høyere temperaturer enn normalt, noe som gir mindre forbruk, samtidig som det har kommet en del nedbør. Vi ser imidlertid at endringen er ujevnt fordelt. I Nord- og Midt-Norge der vi allerede har god magasinfylling, har godt med nedbør gjort at magasinnivåene er nesten undret, mens de synker mer i Sør-Norge. Vi ser nå også at værmeldingen viser at vi kan få noe kaldere vær enn normalt i begynnelsen av neste uke før været igjen slår over til å bli mildere utover uke. Denne milde værtypen kombinert med at vi ser ut til å få mer nedbør enn normalt de kommende 10 dagene har ført til at prisen for kraft levert i februar har falt.
+Anders Lie Brenna, Europower
+– Det er fortsatt lite vann i vannmagasinene på landsbasis, men det er et godt stykke ned til rekordlave nivåer. Det betyr at vi fortsatt har nok å gå på. Det mest interessante er nok hvor lite vi har i magasinene på vestlandet. Der er fyllingsgraden nede i 49,8 prosent, og det er bare fire prosentpoeng over rekordlavt nivå for denne tiden av året. Likevel er det sannsynligvis nok til å komme greit gjennom vinteren. Statnett anser kraftsituasjonen som god, og det ser også ut til at Europa har nok gass til vintermånedene selv om de er på rekordlave nivåer.
+Vi ligger derfor godt an med tanke på en forsyningskrise, men det er nok en mager trøst når strømprisene uansett er skyhøye. Det er vanskelig å spå om fremtiden, men det er ingen grunn til å tro at det blir bedre priser i strømmarkedet med det første.
+Det mest interessante nå er kanskje hva som skjer etter vinteren. For her kan været fremover få mye å si for hvor mye vannmagasinene får i tilsig, samt hvor raskt de fylles opp igjen. Det samme gjelder for Europas gasslagre og leveransene fra Russland. Hvis både vannmagasinene og gasslagrene forblir lave over tid, kan det bli høye strømpriser i uoverskuelig fremtid. I så fall kan denne vinteren bare bli den første av flere med høye strømpriser.
+
+
+
+Ny rekord i straumprisforskjell 
+Tysdag var spotprisen 157 øre/kWh i sør (NO1, NO2 og NO5) og litt over 14 øre i nord (NO3 og NO4).
+Altså nesten 11 gonger så dyrt i sør.
+Distriktsenergi sendt nyleg forslag til departementet om å opprette eit utval for å granske kva som kan redusere prisforskjellane i Noreg. 
+Hovudårsaka er kapasitetsutfordringar mellom nord og sør. Statnett har det overordna ansvaret for å koordinere drifta av det norske kraftsystemet.
+– Vi konstaterer at dei i større grad enn tidlegare er på tilbodssida med omsyn til å sjå på tiltak, seier Knut Lockert som er dagleg leiar i Distriktsenergi.
+
+
+
+
+SKARSFOSSDAMMEN: Distriktsenergi sendt nyleg forslag til departementet om å opprette eit utval som skal granske kva som kan redusere prisforskjellane i Noreg.
+
+Foto: Anne Lognvik / NRK
+
+
+
+– Fint å ha sterkare nord/sør-samband 
+Tysdag skrev bransjeavisa Europower Energi at Statnett «revurderer haldninga» om at det ikkje er samfunnsmessig rasjonelt å investere for å redusere prisforskjellane mellom nord og sør.
+– Det hadde vore veldig fint å ha sterkare nord/sør-samband akkurat nå, seier konserndirektør Gunnar G. Løvås til avisa.
+Eit av tiltaka er å bygge ei kraftlinje over Sognefjorden. Statnett leverte konsesjonssøknad i 2019, men denne har ennå ikkje fått endeleg godkjenning.
+I mellomtida har fleire i bransjen stussa over at straumen flyt nordover på Vestlandet sjølv om prisbildet skulle tilseie det motsette. Forklaringa er forsyningslinjene på den svenske sida av grensa. Sverige har åtte 420 kV-samband som går nord-sør. 
+
+
+
+
+ROSKREPPFJORDEN: Når prisen i det lokale prisområdet skil seg mykje frå den såkalla systemprisen, kan det i periodar føre til at selskap må betale for å levere straum.
+Foto: Siv Kristin Sællmann / NRK
+
+
+
+Fleire kraftselskap har tapt på å selje straum
+Kraftselskap prøver gjerne å sikre noko av kraftsalet sitt fram i tid. Slike prissikringskontraktar fungerer som veddemål. «Når prisen i det lokale prisområdet skil seg mykje frå den såkalla systemprisen, kan det i periodar føre til at selskap må betale for å levere straum», skriver E24.
+Det er eit av paradoksa frå eit halvår i straumprisens teikn: Fleire kraftselskap har tapt på å selje straum sjølv om det i snitt berre kostar 12 øre å lage éin Kwh.
+– For totalproduksjonen i desember hadde vi negative driftsinntekter, seier Halvard Fjeldvær i Svorka energi.
+Det same seier Johannes Rauboti, konsernsjef i SFE.
+– Det er allereie inngåtte kontraktar som påverkar oss negativt.
+Alf Vee Midtun er administrerande direktør i Rauma energi. 
+– Det er til tider negative driftsinntekter, seier han.
+
+
+
+
+
+
+
+
+
+
+
+
+Fem trendar frå det eksepsjonelle kraftåretTor Reier Lilleholt, Volue Insight
+– NVE sin statistikk viser at det tappes mindre enn normalt i nord som følge av at der har vi hatt vær som bidrar til ekstra tilsig. I sør er det fortsatt sterk nedtapping. Spesielt i øst og i Vest er det prognoser som går ganske langt ned når vi kommer til våren. Den siste tiden har det hjulpet betydelig i område sør (NO2) som har fått noe mer tilsig og at forbruket er lavere pga. høyere temperaturer. Med normal vær fremover ser det ut til å være nok vann i magasinene for resten av denne vinteren, men vi kan ikke ha vesentlig væromslag med lave temperaturer og lite tilsig de neste 2 månedene.
+Vi har også fått betydelig oppbygning av mer snø i mange områder som kan hjelpe situasjonen litt senere i sommer. I fjellet i sør Norge er det derimot fortsatt betydelig mindre snø en det vi normalt ser.
+Slik utsiktene er nå vil nord Norge flomme over av billig kraft med gode magasiner og mye snøsmelting. I sør ser det ut som de skal slite med lavere magasiner enn normalt i lang tid om ikke været slår om til å levere mye nedbør i sommer. Derfor vil prisutsiktene i sør fortsatt ligge nære 1kr/kWh i kraftpris gjennom sommeren når vi inkluderer moms.
+
+Marius Holm Rennesund, Thema
+– Magasinfyllingen denne uken viser en nedgang på 1,6% for Norge som helhet. Dette er noe mindre enn det som er normalt for årstiden. Hovedgrunnen til dette er at vi for tiden har høyere temperaturer enn normalt, noe som gir mindre forbruk, samtidig som det har kommet en del nedbør. Vi ser imidlertid at endringen er ujevnt fordelt. I Nord- og Midt-Norge der vi allerede har god magasinfylling, har godt med nedbør gjort at magasinnivåene er nesten undret, mens de synker mer i Sør-Norge. Vi ser nå også at værmeldingen viser at vi kan få noe kaldere vær enn normalt i begynnelsen av neste uke før været igjen slår over til å bli mildere utover uke. Denne milde værtypen kombinert med at vi ser ut til å få mer nedbør enn normalt de kommende 10 dagene har ført til at prisen for kraft levert i februar har falt.
+Anders Lie Brenna, Europower
+– Det er fortsatt lite vann i vannmagasinene på landsbasis, men det er et godt stykke ned til rekordlave nivåer. Det betyr at vi fortsatt har nok å gå på. Det mest interessante er nok hvor lite vi har i magasinene på vestlandet. Der er fyllingsgraden nede i 49,8 prosent, og det er bare fire prosentpoeng over rekordlavt nivå for denne tiden av året. Likevel er det sannsynligvis nok til å komme greit gjennom vinteren. Statnett anser kraftsituasjonen som god, og det ser også ut til at Europa har nok gass til vintermånedene selv om de er på rekordlave nivåer.
+Vi ligger derfor godt an med tanke på en forsyningskrise, men det er nok en mager trøst når strømprisene uansett er skyhøye. Det er vanskelig å spå om fremtiden, men det er ingen grunn til å tro at det blir bedre priser i strømmarkedet med det første.
+Det mest interessante nå er kanskje hva som skjer etter vinteren. For her kan været fremover få mye å si for hvor mye vannmagasinene får i tilsig, samt hvor raskt de fylles opp igjen. Det samme gjelder for Europas gasslagre og leveransene fra Russland. Hvis både vannmagasinene og gasslagrene forblir lave over tid, kan det bli høye strømpriser i uoverskuelig fremtid. I så fall kan denne vinteren bare bli den første av flere med høye strømpriser.

@@ -1,0 +1,110 @@
+url: 
+https://www.nrk.no/vestland/unge-synest-det-er-skummelt-med-malretta-reklame-pa-instagram-og-facebook-1.15818242headline: 
+Unge synest det er skummelt med målretta reklame på Instagram og Facebook – NRK Vestland
+published_date
+2022-01-30T20:24:48+01:00
+ingress:
+Studentane er skremde av svært presise annonsar på Instagram og Facebook. Forskar seier det er summen av alt vi gjer digitalt som gjer annonsørane så treffsikre.
+article:
+Studentane er skremde av svært presise annonsar på Instagram og Facebook. Forskar seier det er summen av alt vi gjer digitalt som gjer annonsørane så treffsikre.– Eg lurer jo på om vi blir avlytta, spesielt når eg får reklame for ting eg berre har snakka om.
+Det seier Christine Hegedus (21). Ho er student ved Høgskulen på Vestlandet og får støtte av Karianne Stige Hanøy (21) som har opplevd det same.
+– Du kan aktivere SiriSiriNamnet på Apple sin talestyrde, personlege assistent. Blir aktivert når du seier namnet "Siri".   berre ved å seie namnet, så ein skulle nesten tru dei høyrer etter, seier Hanøy.
+Det er ikkje nytt at teknologigigantar som MetaMetaI oktober 2021 byta Facebook namn til Meta. Meta eig fleire populære appar, blant anna Facebook, Instagram, WhatsApp og Oculus.  brukar avanserte algoritmar og kunstig intelligens for å målrette reklame til oss på Instagram og Facebook.
+Likevel blir studentane skremde av kor presise reklamane har blitt.
+På nyttårsaftan var Hanøy på fest. Ho spøka med at det burde finnast eit armband som fortel deg kor mykje du har drukke.
+Då ho opna Instagram litt seinare på kvelden, fekk ho reklame for akkurat eit slikt armband.
+– Det var sjukt. Då blei eg faktisk litt redd.
+
+
+
+
+        Har du fått reklame på Instagram eller Facebook for noko du berre har snakka om?
+      
+
+
+
+Ja, og det er skremmande
+Ja, men det gjer meg ingenting
+Nei, har ikkje opplevd det
+
+Vis resultat
+
+
+
+
+
+Ingen bevis for avlytting, men teknologien finst
+– Stemmeattkjenning finst og eit selskap som Meta har tilgang på han. Ein kan ikkje utelukke at dei bruker han, utan at eg har noko bevis for det.
+Det meiner Malgorzata Cyndecka ved Universitetet i Bergen. Ho har forska på ansvarleg kunstig intelligens, personvern og GDPRGDPRForkorting for General Data Protection Regulation. På norsk kalla personforordningslova. . 
+
+
+
+
+PERSONDATA ER BETALINGA: Førsteamanuensis ved Det juridiske fakultet, Malgorzata Cydencka, minner om at det er våre eigne personopplysingar som er betalinga for å bruke gratisappar.
+Foto: Kim E. Andreassen, Universitetet i Bergen
+
+
+
+Kommunikasjonsansvarleg i Meta Norden, Lukasz Lindell, avviser at dei lyttar på brukarane sine. 
+«Vi viser annonsar basert på folk sine interesser og anna profilinformasjon – ikkje det du snakkar høgt om,» skriv han i ein e-post til NRK. 
+Sjå heile svaret lenger nede i saka.
+Sensitive personopplysingar
+Cyndecka er også bekymra for at vi ukritisk gir frå oss detaljerte personopplysingar kvar gong vi brukar desse appane.
+Opplysingane blir samanstilt og strukturert ved bruk av avanserte algoritmar. Slik blir det generert svært sensitiv informasjon om oss, såkalla «inferred data», utan at vi sjølve har oppgitt denne. Det er problematisk, meiner ho.
+
+
+
+
+RULLAR: Studentane ved Høgskulen på Vestlandet rullar forbi reklame retta spesifikt mot deira segment.
+Foto: Oda F. Lødemel / NRK SOGN OG FJORDANE
+
+
+
+Meta Norden meiner at personalisering av reklame ikkje går på kostnad av personvernet til brukarane. 
+Likare enn vi skulle tru
+Opplevingar som den studenten Hanøy hadde på nyttårsaftan, blir ofte oppfatta som for spesielle til å vere tilfeldige.
+Likevel lar dei seg forklare av to ord: statistikk og persepsjon. 
+Det seier Dag Svanæs, professor ved Institutt for datateknikk og informasjonsvitskap ved NTNU.
+– Statistisk sett er det mogleg å oppleve slike rare samantreff ganske ofte i løpet av livet. Det at vi legg merke til dei, kan forklarast med kva vi har fokus på, bevisst eller ubevisst.
+Sjølv om teknologien er der, trur ikkje Svanæs at selskap som Meta bruker tid på å lytte til samtalane våre. Det handlar meir om at vi er likare kvarandre enn vi skulle tru.
+– Algoritmane kalkulerer sannsyn ut frå data vi sjølv har gitt frå oss, men og ut frå kva andre som liknar på oss engasjerer seg i på desse appane og andre tredjepartssider, seier han.
+Kjem ikkje til å slutte
+Studentane i Førde er klare over at dei gir frå seg sensitive persondata i byte mot å bruke ulike appar. 
+
+
+
+
+VIKTIGE PLATTFORMER: Christine Hegedus og Karianne Stige Hanøy seier dei godtek vilkåra som gjer at dei får så spissa reklame, fordi appane er viktige for dei i kvardagen. 
+Foto: Oda F. Lødemel / NRK SOGN OG FJORDANE
+
+
+
+Sjølv om dei er skeptiske, kjem dei ikkje til å slutte. Appane er viktige i kvardagen og lar dei halde kontakten med vener og familie. 
+– Målretta reklame må vi nesten berre takle om vi vil vere ein del av fellesskapen.
+
+
+Svar frå Lukasz Lindell, kommunikasjonsansvarleg i Meta Norden
+
+
+Ekspandér faktaboks
+
+
+
+
+«Facebook bruker ikke mikrofonen på mobilen til å forme annonsene, eller endre det du ser i nyhetsfeeden. Noen artikler antyder at vi lytter til folks samtaler og fra det viser dem relevante annonser, men det er ikke sant. Vi viser annonser basert på folks interesser og annen profilinformasjon – ikke det du snakker høyt om.
+Vi har kun tilgang til mikrofonen din hvis du har gitt tillatelse til det i appen vår, og hvis du aktivt bruker en spesifikk funksjon som krever lyd. Dette kan være å spille inn en video, eller bruke en valgfri funksjon vi introduserte for to år siden som inkluderer musikk eller annen lyd i statusoppdateringene dine.
+På alle Metas apper ønsker vi å vise deg annonser fra virksomheter som er interessante og relevante for deg. For å gjøre det bruker vi informasjon om hva du gjør på Instagram og Facebook, og på tredjepartssider og apper du bruker. Du kan for eksempel se annonser basert på personene du følger og ting du liker på Instagram, informasjonen og interessene dine på Facebook (hvis du har en Facebook-konto) og nettstedene og appene du besøker.
+Men akkurat som på Facebook kan brukerne kontrollere tilgangen til disse annonsene gjennom annonseinnstillinger, alternativer for å skjule og velge bort.
+Vi tror at personlig, målrettet annonsering har vært avgjørende for vekst og fremdrift på internett, like mye som den globale økonomien. Vi er også overbevist om at personvern og personalisering kan gå hånd i hånd, og at ikke er et nullsumspill. Å beskytte personvernet og sikkerheten til folks data er grunnleggende for hvordan virksomheten vår fungerer, og det er alles ansvar hos Meta.
+Vi har vært ledende i bransjen når det gjelder å gi folk valgmuligheter og åpenhet om hvordan dataene deres brukes, for eksempel via verktøy som «Hvorfor ser jeg denne annonsen», annonseinnstillinger og aktivitet utenfor Facebook
+Vi bygger en ny æra med personlig tilpassede opplevelser – der folk har mer kontroll, valg og åpenhet over identifiserbare data, enn noen gang før. Mennesker, bedrifter og skapere har nye muligheter å samhandle, vokse og blomstre.
+Nøkkelområdet er personvernforbedrende teknologier (PET) – det gir oss muligheten til å kunne tilby tilpasset annonsering, samtidig som vi behandler mindre personopplysninger.
+Alt dette krever større bransjesamarbeid, og vi jobber med blant annet W3C, PRAM + WFA for å oppnå dette (Partnership for Responsible Addressable Media (PRAM), World Wide Web Consortium (W3C) og World Federation of Advertisers (WFA)).»«Facebook bruker ikke mikrofonen på mobilen til å forme annonsene, eller endre det du ser i nyhetsfeeden. Noen artikler antyder at vi lytter til folks samtaler og fra det viser dem relevante annonser, men det er ikke sant. Vi viser annonser basert på folks interesser og annen profilinformasjon – ikke det du snakker høyt om.
+Vi har kun tilgang til mikrofonen din hvis du har gitt tillatelse til det i appen vår, og hvis du aktivt bruker en spesifikk funksjon som krever lyd. Dette kan være å spille inn en video, eller bruke en valgfri funksjon vi introduserte for to år siden som inkluderer musikk eller annen lyd i statusoppdateringene dine.
+På alle Metas apper ønsker vi å vise deg annonser fra virksomheter som er interessante og relevante for deg. For å gjøre det bruker vi informasjon om hva du gjør på Instagram og Facebook, og på tredjepartssider og apper du bruker. Du kan for eksempel se annonser basert på personene du følger og ting du liker på Instagram, informasjonen og interessene dine på Facebook (hvis du har en Facebook-konto) og nettstedene og appene du besøker.
+Men akkurat som på Facebook kan brukerne kontrollere tilgangen til disse annonsene gjennom annonseinnstillinger, alternativer for å skjule og velge bort.
+Vi tror at personlig, målrettet annonsering har vært avgjørende for vekst og fremdrift på internett, like mye som den globale økonomien. Vi er også overbevist om at personvern og personalisering kan gå hånd i hånd, og at ikke er et nullsumspill. Å beskytte personvernet og sikkerheten til folks data er grunnleggende for hvordan virksomheten vår fungerer, og det er alles ansvar hos Meta.
+Vi har vært ledende i bransjen når det gjelder å gi folk valgmuligheter og åpenhet om hvordan dataene deres brukes, for eksempel via verktøy som «Hvorfor ser jeg denne annonsen», annonseinnstillinger og aktivitet utenfor Facebook
+Vi bygger en ny æra med personlig tilpassede opplevelser – der folk har mer kontroll, valg og åpenhet over identifiserbare data, enn noen gang før. Mennesker, bedrifter og skapere har nye muligheter å samhandle, vokse og blomstre.
+Nøkkelområdet er personvernforbedrende teknologier (PET) – det gir oss muligheten til å kunne tilby tilpasset annonsering, samtidig som vi behandler mindre personopplysninger.
+Alt dette krever større bransjesamarbeid, og vi jobber med blant annet W3C, PRAM + WFA for å oppnå dette (Partnership for Responsible Addressable Media (PRAM), World Wide Web Consortium (W3C) og World Federation of Advertisers (WFA)).»

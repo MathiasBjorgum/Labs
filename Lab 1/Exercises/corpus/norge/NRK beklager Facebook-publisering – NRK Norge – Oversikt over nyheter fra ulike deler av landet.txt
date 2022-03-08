@@ -1,0 +1,10 @@
+url: 
+https://www.nrk.no/norge/nrk-beklager-facebook-publisering-1.15824898headline: 
+NRK beklager Facebook-publisering – NRK Norge – Oversikt over nyheter fra ulike deler av landet
+published_date
+2022-01-24T10:22:11+01:00
+ingress:
+9. april 2021 publiserte NRK en artikkel om at vaksinemotstanderen Hans Gaarder hadde dødd med koronasykdom. Artikkelen ble også publisert på NRK Nyheters konto på Facebook.
+article:
+9. april 2021 publiserte NRK en artikkel om at vaksinemotstanderen Hans Gaarder hadde dødd med koronasykdom. Artikkelen ble også publisert på NRK Nyheters konto på Facebook.Omtalen av dødsfallet og identifisering med navn og bilde var en stor belastning for Gaarders nærmeste familie, og denne belastningen ble forsterket av at saken også ble publisert på Facebook med åpent kommentarfelt for alle som leste den. Dette kunne vært unngått, og NRK beklager at dette skjedde. 
+NRK burde ikke publisert en sak av denne typen med et åpent kommentarfelt på Facebook, og NRK beklager tilleggsbelastningen denne publiseringen påførte Hans Gaarders nærmeste familie.
